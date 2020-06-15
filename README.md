@@ -6,15 +6,14 @@ What is Tensor ? Different types of Tensors Ranking.
 
 # Library Installations:
  
-- Anaconda
-- Tensorflow / Keras
-- scipy
+- pip install opencv-contrib-python    (OpenCV)
 
-- https://www.anaconda.com/products/individual
-- https://docs.anaconda.com/anaconda/user-guide/tasks/tensorflow/
-- https://anaconda.org/conda-forge/keras
+- conda install -c conda-forge matplotlib  (Matplotlib Data Visualization Tools)
+
+- pip install tensorflow (Tensorflow 2.0)
+- conda install -c anaconda tensorflow-gpu  (Tensorflow GPU 2.1)
 
 
-# Run Style Transfer
-python style_transfer.py img/original.jpg img/effect.jpg results/my_result
+# Run Jupyter Notebook
+- Lesson 1 Tensor Data Types.ipynb
 
