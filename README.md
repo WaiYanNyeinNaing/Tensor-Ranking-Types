@@ -1,7 +1,7 @@
 # Tensor-Ranking-Types
 What is Tensor ? Different types of Tensors Ranking.
 
-![Screenshot1](tf1vstf2.png)
+![Screenshot1](tensor.png)
 
 ![Screenshot](rank_type.png)
 
