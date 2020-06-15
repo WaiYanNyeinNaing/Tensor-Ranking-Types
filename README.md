@@ -2,7 +2,7 @@
 What is Tensor ? Different types of Tensors Ranking.
 
 
-![Screenshot](results/my_result.png)
+![Screenshot](tf1vstf2.png)
 
 # Library Installations:
  
